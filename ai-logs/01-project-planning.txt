@@ -1,0 +1,13 @@
+Project started.
+
+Challenge:
+Build a Cal AI Clone.
+
+Planning:
+- Create React Native app
+- Integrate Gemini Vision API
+- Build calorie tracking dashboard
+- Add diary and streak system
+
+AI Used:
+Claude AI
